@@ -1,6 +1,6 @@
 <!-- 
 //Kampungan EDITOR v1.0
-//oleh AGUS MUHAJIR (hajirodeon@yahoo.com)
+//oleh AGUS MUHAJIR (cftteam@yahoo.com)
 -->
 <script language="javascript" type="text/javascript" src="<?php
 
@@ -12,12 +12,12 @@
 /////// Agus Muhajir, S.Kom                                     ///////
 /////// URL 	:                                               ///////
 ///////     * http://sisfokol.wordpress.com/                    ///////
-///////     * http://hajirodeon.wordpress.com/                  ///////
+///////     * http://cftteam.wordpress.com/                  ///////
 ///////     * http://yahoogroup.com/groups/sisfokol/            ///////
 ///////     * http://yahoogroup.com/groups/linuxbiasawae/       ///////
 /////// E-Mail	:                                               ///////
-///////     * hajirodeon@yahoo.com                              ///////
-///////     * hajirodeon@gmail.com                              ///////
+///////     * cftteam@yahoo.com                              ///////
+///////     * cftteam@gmail.com                              ///////
 /////// HP/SMS	: 081-829-88-54                                 ///////
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
@@ -31,12 +31,12 @@
 /////// Agus Muhajir, S.Kom                                     ///////
 /////// URL 	:                                               ///////
 ///////     * http://sisfokol.wordpress.com/                    ///////
-///////     * http://hajirodeon.wordpress.com/                  ///////
+///////     * http://cftteam.wordpress.com/                  ///////
 ///////     * http://yahoogroup.com/groups/sisfokol/            ///////
 ///////     * http://yahoogroup.com/groups/linuxbiasawae/       ///////
 /////// E-Mail	:                                               ///////
-///////     * hajirodeon@yahoo.com                              ///////
-///////     * hajirodeon@gmail.com                              ///////
+///////     * cftteam@yahoo.com                              ///////
+///////     * cftteam@gmail.com                              ///////
 /////// HP/SMS	: 081-829-88-54                                 ///////
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
@@ -70,12 +70,12 @@
 /////// Agus Muhajir, S.Kom                                     ///////
 /////// URL 	:                                               ///////
 ///////     * http://sisfokol.wordpress.com/                    ///////
-///////     * http://hajirodeon.wordpress.com/                  ///////
+///////     * http://cftteam.wordpress.com/                  ///////
 ///////     * http://yahoogroup.com/groups/sisfokol/            ///////
 ///////     * http://yahoogroup.com/groups/linuxbiasawae/       ///////
 /////// E-Mail	:                                               ///////
-///////     * hajirodeon@yahoo.com                              ///////
-///////     * hajirodeon@gmail.com                              ///////
+///////     * cftteam@yahoo.com                              ///////
+///////     * cftteam@gmail.com                              ///////
 /////// HP/SMS	: 081-829-88-54                                 ///////
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
@@ -89,12 +89,12 @@
 /////// Agus Muhajir, S.Kom                                     ///////
 /////// URL 	:                                               ///////
 ///////     * http://sisfokol.wordpress.com/                    ///////
-///////     * http://hajirodeon.wordpress.com/                  ///////
+///////     * http://cftteam.wordpress.com/                  ///////
 ///////     * http://yahoogroup.com/groups/sisfokol/            ///////
 ///////     * http://yahoogroup.com/groups/linuxbiasawae/       ///////
 /////// E-Mail	:                                               ///////
-///////     * hajirodeon@yahoo.com                              ///////
-///////     * hajirodeon@gmail.com                              ///////
+///////     * cftteam@yahoo.com                              ///////
+///////     * cftteam@gmail.com                              ///////
 /////// HP/SMS	: 081-829-88-54                                 ///////
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
@@ -122,12 +122,12 @@
 /////// Agus Muhajir, S.Kom                                     ///////
 /////// URL 	:                                               ///////
 ///////     * http://sisfokol.wordpress.com/                    ///////
-///////     * http://hajirodeon.wordpress.com/                  ///////
+///////     * http://cftteam.wordpress.com/                  ///////
 ///////     * http://yahoogroup.com/groups/sisfokol/            ///////
 ///////     * http://yahoogroup.com/groups/linuxbiasawae/       ///////
 /////// E-Mail	:                                               ///////
-///////     * hajirodeon@yahoo.com                              ///////
-///////     * hajirodeon@gmail.com                              ///////
+///////     * cftteam@yahoo.com                              ///////
+///////     * cftteam@gmail.com                              ///////
 /////// HP/SMS	: 081-829-88-54                                 ///////
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
@@ -141,12 +141,12 @@
 /////// Agus Muhajir, S.Kom                                     ///////
 /////// URL 	:                                               ///////
 ///////     * http://sisfokol.wordpress.com/                    ///////
-///////     * http://hajirodeon.wordpress.com/                  ///////
+///////     * http://cftteam.wordpress.com/                  ///////
 ///////     * http://yahoogroup.com/groups/sisfokol/            ///////
 ///////     * http://yahoogroup.com/groups/linuxbiasawae/       ///////
 /////// E-Mail	:                                               ///////
-///////     * hajirodeon@yahoo.com                              ///////
-///////     * hajirodeon@gmail.com                              ///////
+///////     * cftteam@yahoo.com                              ///////
+///////     * cftteam@gmail.com                              ///////
 /////// HP/SMS	: 081-829-88-54                                 ///////
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////

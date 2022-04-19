@@ -13,7 +13,7 @@
 //})
 //
 //
-//dan dimodifikasi oleh : Agus Muhajir (SISFOKOL Developer : hajirodeon@yahoo.com).
+//dan dimodifikasi oleh : Agus Muhajir (SISFOKOL Developer : cftteam@yahoo.com).
 
 jQuery.noConflict()
 

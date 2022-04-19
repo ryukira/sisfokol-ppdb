@@ -8,12 +8,12 @@
 /////// Agus Muhajir, S.Kom                                     ///////
 /////// URL 	:                                               ///////
 ///////     * http://sisfokol.wordpress.com/                    ///////
-///////     * http://hajirodeon.wordpress.com/                  ///////
+///////     * http://cftteam.wordpress.com/                  ///////
 ///////     * http://yahoogroup.com/groups/sisfokol/            ///////
 ///////     * http://yahoogroup.com/groups/linuxbiasawae/       ///////
 /////// E-Mail	:                                               ///////
-///////     * hajirodeon@yahoo.com                              ///////
-///////     * hajirodeon@gmail.com                              ///////
+///////     * cftteam@yahoo.com                              ///////
+///////     * cftteam@gmail.com                              ///////
 /////// HP/SMS	: 081-829-88-54                                 ///////
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
@@ -31,7 +31,7 @@
 	 * @copyright : Freeware
 	 *
 	 * About : This script can take backup of mysql database.
-	 * dan dimodifikasi oleh : Agus Muhajir,S.Kom [hajirodeon@yahoo.com]
+	 * dan dimodifikasi oleh : Agus Muhajir,S.Kom [cftteam@yahoo.com]
 	 *		untuk SISFOKOL.
 	 */
 
@@ -158,7 +158,7 @@
 			}
 
 			$lineEnd = $this->lineEnd[$this->OS_local];
-			$returnSql = "# MySql Dump Backup untuk SISFOKOL (oleh : Agus Muhajir [hajirodeon@yahoo.com])".$lineEnd ;
+			$returnSql = "# MySql Dump Backup untuk SISFOKOL (oleh : Agus Muhajir [cftteam@yahoo.com])".$lineEnd ;
 			$returnSql .= "# Host:".$this->dbhost.$lineEnd;
 			$returnSql .= "# Database:".$database.$lineEnd;
 			$returnSql .= "# -------------------------------------------------".$lineEnd;

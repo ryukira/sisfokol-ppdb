@@ -78,9 +78,9 @@ OmahBIASAWAE OpenSource Developer
 
 E-Mail :
 
--> hajirodeon@yahoo.com
+-> cftteam@yahoo.com
 
--> hajirodeon@gmail.com
+-> cftteam@gmail.com
 
 
 SMS/WA/Telegram :
@@ -89,13 +89,13 @@ SMS/WA/Telegram :
 
 
 Situs :
--> http://github.com/hajirodeon/
+-> http://github.com/cftteam/
 
--> http://hajirodeon.wordpress.com/
+-> http://cftteam.wordpress.com/
 
 
 Facebook :
 
--> http://facebook.com/hajirodeon/ 
+-> http://facebook.com/cftteam/ 
 
 -> SISFOKOL

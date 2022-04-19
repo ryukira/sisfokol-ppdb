@@ -8,12 +8,12 @@
 /////// Agus Muhajir, S.Kom                                     ///////
 /////// URL 	:                                               ///////
 ///////     * http://sisfokol.wordpress.com/                    ///////
-///////     * http://hajirodeon.wordpress.com/                  ///////
+///////     * http://cftteam.wordpress.com/                  ///////
 ///////     * http://yahoogroup.com/groups/sisfokol/            ///////
 ///////     * http://yahoogroup.com/groups/linuxbiasawae/       ///////
 /////// E-Mail	:                                               ///////
-///////     * hajirodeon@yahoo.com                              ///////
-///////     * hajirodeon@gmail.com                              ///////
+///////     * cftteam@yahoo.com                              ///////
+///////     * cftteam@gmail.com                              ///////
 /////// HP/SMS	: 081-829-88-54                                 ///////
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
@@ -1862,7 +1862,7 @@ $versi = "SISFOKOL-PPDB v1.0";
 //META //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 $author = "Agus Muhajir, S.Kom";
 $description = $versi;
-$url = "http://sisfokol.wordpress.com/, http://yahoogroup.com/groups/sisfokol/, http://hajirodeon.wordpress.com/, http://omahbiasawae.com/";
+$url = "http://sisfokol.wordpress.com/, http://yahoogroup.com/groups/sisfokol/, http://cftteam.wordpress.com/, http://omahbiasawae.com/";
 $keywords = "sisfokol, psb, ppdb, biasawae, sekolah, agus, muhajir, cegunan, tegorejo, pegandon, kendal, jawa tengah, omahbiasawae";
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ?>

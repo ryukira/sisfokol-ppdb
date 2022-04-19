@@ -8,12 +8,12 @@
 /////// Agus Muhajir, S.Kom                                     ///////
 /////// URL 	:                                               ///////
 ///////     * http://sisfokol.wordpress.com/                    ///////
-///////     * http://hajirodeon.wordpress.com/                  ///////
+///////     * http://cftteam.wordpress.com/                  ///////
 ///////     * http://yahoogroup.com/groups/sisfokol/            ///////
 ///////     * http://yahoogroup.com/groups/linuxbiasawae/       ///////
 /////// E-Mail	:                                               ///////
-///////     * hajirodeon@yahoo.com                              ///////
-///////     * hajirodeon@gmail.com                              ///////
+///////     * cftteam@yahoo.com                              ///////
+///////     * cftteam@gmail.com                              ///////
 /////// HP/SMS	: 081-829-88-54                                 ///////
 ///////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////
@@ -51,8 +51,8 @@ $sumber = 'http://localhost/sisfokol_ppdb/';
 //KONEKSI DATABASE //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 $xhostname = "localhost";
 $xdatabase = "sisfokol_ppdb";
-$xusername = "biasawae";
-$xpassword = "biasawae";
+$xusername = "root";
+$xpassword = "";
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
